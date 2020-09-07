@@ -1,4 +1,4 @@
 language: java
-deploy:
-  provider: heroku
-  app: devops-pipline-practise
+#deploy:
+#  provider: heroku
+#  app: devops-pipline-practise
