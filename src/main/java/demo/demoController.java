@@ -13,7 +13,7 @@ public class demoController {
 
     @GetMapping(path = "/pong")
     public String pong() {
-        return "ping";
+        return "pong";
     }
 
 }
