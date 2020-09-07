@@ -1,6 +1,2 @@
 language: java
 
-deploy:
-  provider: heroku
-  api_key:
-    secure: "devops-heroku-pipeline"
