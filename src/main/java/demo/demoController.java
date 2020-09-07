@@ -16,4 +16,9 @@ public class demoController {
         return "pong";
     }
 
+    @GetMapping(path = "/hello")
+    public String hello() {
+        return "Hello World! :D";
+    }
+
 }
