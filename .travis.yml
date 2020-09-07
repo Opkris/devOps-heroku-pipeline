@@ -1,4 +1,5 @@
 language: java
-#deploy:
-#  provider: heroku
-#  app: devops-pipline-practise
+deploy:
+  provider: heroku
+  api_key: THIS_IS_MY_KEY_TO_THE_UNIVERSE
+  app: devops-pipline-practise
