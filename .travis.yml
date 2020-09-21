@@ -3,8 +3,8 @@ language: java
 services:
 - docker
 
-script:
-  - bash devops-heroku-pipeline
+#script:
+#  - bash devops-heroku-pipeline
 
 dd:
   secure: e01/I0hY6QJzYwaVChGR/vDaKp48402ibNFlZVrFfBBDJ2N89VnZuEiCNHyPAgWxLKiuGBjMjH3E9UE7tovALHDGnPuk4oshNofEkqKC6+Vf1mMw14djIW08LwDWRWLfyeQieNKB1g2euYwMEwf3H06E8G5LcO//NVxYbyc+44qxXnX9JaiQ6TjdXrQzJLkjyl+ZOrEvOblRSBif5g+hQs71DczsQgKQQ88GEEGVj9BzC0i8/SEwRT2Zb9uPHTQVN/K5Nhm3MEd3s0iqrFtOzr4MTp9/B72vHusKVUPwEohqjlS2TC1irSdZf5lZqHlRszA6eSikBaIFjVtn/sCDwICiOd37mnX4rzh16q6d7KhGLlieaaYPb91T+wiFOPvtACaMDOx4/iSsoD5kmkyHJqVrjOqfPlaPCPJkHD+rvvDCtuHHzcbxh61ZNqOLZrTnAKVMmnouqVENThDNkcWUFb/JgKfQRf5h63NbB/n0SwSc6Aydb2TdZq1Cba9KFDM3YaE4W6PjSXHKk2MaPN3oeRo4YBo6+767O/TObHUMDOdxFuuJ5egovf+YQrpM4chbczd7kiq/GZ9NeQZCLNoa/fgL6jduYy810xkrazvB61gQO56nYou3csMoX0dP4Pr1dxnxdkZxDrEz6TV65/yClS3SmQU9HdbLW7c46Rnjcrg=
